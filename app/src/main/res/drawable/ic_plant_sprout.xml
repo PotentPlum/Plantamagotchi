@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stage 2 (6-12 wins): a small sprout with two leaves. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path android:fillColor="#795548" android:pathData="M4,44 L4,41 Q24,33 44,41 L44,44 Z" />
+    <path android:strokeColor="#388E3C" android:strokeWidth="2.5" android:strokeLineCap="round" android:pathData="M24,39 L24,25" />
+    <path android:fillColor="#66BB6A" android:pathData="M24,28 C18,28 14,24 14,19 C19,19 24,22 24,28 Z" />
+    <path android:fillColor="#81C784" android:pathData="M24,26 C30,26 34,22 34,17 C29,17 24,20 24,26 Z" />
+</vector>

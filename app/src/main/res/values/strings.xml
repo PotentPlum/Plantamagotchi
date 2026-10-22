@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plantamagotchi</string>
+    <string name="widget_name">Plant Habit</string>
+    <string name="widget_description">Log a habit win and watch your plant grow.</string>
+</resources>
