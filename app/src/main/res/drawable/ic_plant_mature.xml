@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stage 4 (21+ wins): a mature, flowering plant ready to harvest. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path android:fillColor="#795548" android:pathData="M4,44 L4,41 Q24,33 44,41 L44,44 Z" />
+    <path android:strokeColor="#2E7D32" android:strokeWidth="2.5" android:strokeLineCap="round" android:pathData="M24,39 L24,14" />
+    <path android:fillColor="#43A047" android:pathData="M24,35 C16,35 10,31 9,25 C16,25 24,28 24,35 Z" />
+    <path android:fillColor="#66BB6A" android:pathData="M24,32 C32,32 38,28 39,22 C32,22 24,25 24,32 Z" />
+    <path android:fillColor="#4CAF50" android:pathData="M24,24 C18,24 14,21 13,17 C19,17 24,19 24,24 Z" />
+    <path android:fillColor="#EC407A" android:pathData="M20,7 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    <path android:fillColor="#EC407A" android:pathData="M20,17 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    <path android:fillColor="#F06292" android:pathData="M15,12 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    <path android:fillColor="#F06292" android:pathData="M25,12 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 Z" />
+    <path android:fillColor="#FFEB3B" android:pathData="M21,12 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0 Z" />
+</vector>

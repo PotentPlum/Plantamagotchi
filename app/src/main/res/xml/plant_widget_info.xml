@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- updatePeriodMillis refreshes the widget every 30 minutes so the
+     night-time (8 PM - 6 AM) "sleeping" state appears without user input. -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/widget_description"
+    android:initialLayout="@layout/glance_default_loading_layout"
+    android:minWidth="160dp"
+    android:minHeight="200dp"
+    android:minResizeWidth="140dp"
+    android:minResizeHeight="180dp"
+    android:previewImage="@drawable/ic_plant_mature"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="2"
+    android:targetCellHeight="3"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen" />

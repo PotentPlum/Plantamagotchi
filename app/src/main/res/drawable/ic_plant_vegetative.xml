@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stage 3 (13-20 wins): a leafy, growing plant. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path android:fillColor="#795548" android:pathData="M4,44 L4,41 Q24,33 44,41 L44,44 Z" />
+    <path android:strokeColor="#2E7D32" android:strokeWidth="2.5" android:strokeLineCap="round" android:pathData="M24,39 L24,10" />
+    <path android:fillColor="#43A047" android:pathData="M24,34 C16,34 10,30 9,24 C16,24 24,27 24,34 Z" />
+    <path android:fillColor="#66BB6A" android:pathData="M24,31 C32,31 38,27 39,21 C32,21 24,24 24,31 Z" />
+    <path android:fillColor="#4CAF50" android:pathData="M24,22 C17,22 12,18 12,13 C18,13 24,16 24,22 Z" />
+    <path android:fillColor="#81C784" android:pathData="M24,19 C31,19 36,15 36,10 C30,10 24,13 24,19 Z" />
+    <path android:fillColor="#A5D6A7" android:pathData="M24,12 C21,12 20,8 24,4 C28,8 27,12 24,12 Z" />
+</vector>
