@@ -22,6 +22,17 @@ android {
         }
     }
 
+    signingConfigs {
+        // A committed debug keystore keeps the signature identical across CI builds,
+        // so released APKs can be installed as updates (e.g. via Obtainium).
+        getByName("debug") {
+            storeFile = file("debug.keystore")
+            storePassword = "android"
+            keyAlias = "androiddebugkey"
+            keyPassword = "android"
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
